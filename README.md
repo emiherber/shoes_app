@@ -1,4 +1,4 @@
-# pelicula_app
+# shoes_app
 
 APP de calzados
 
